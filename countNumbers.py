@@ -6,6 +6,8 @@ def main():
         print(i * i)
         // added in github
         print(i + 5)
+        // added in github again
+        print(num - i)
 if __name__ == "__main__":
     main()
 
