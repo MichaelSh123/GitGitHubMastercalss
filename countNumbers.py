@@ -7,7 +7,8 @@ def main():
         # added in github again
         print(num - i)
         x = i  + x
-    print("mistake codeeeeeeeeeeeee")
+        print("this is a mistake code that will be reverted latter")
+    print("END!")
 if __name__ == "__main__":
     main()
 
