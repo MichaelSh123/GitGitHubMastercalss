@@ -1,1 +1,8 @@
-/secret_1.py
+
+#ignore files
+/secret_2.py
+/secret_4.py
+/secret_5.py
+
+#ignore folder
+text folder2/
