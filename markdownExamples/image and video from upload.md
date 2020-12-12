@@ -1,3 +1,3 @@
-![](credit cards.png)
+![](https://github.com/MichaelSh123/GitGitHubMastercalss/blob/master/markdownExamples/credit%20cards.png?raw=true)
 
-![](https://cergntnu.files.wordpress.com/2016/10/web-ios-logo.jpg "apple123")
+[![](https://www.youtube.com/watch?v=lE6RYpe9IT0)
